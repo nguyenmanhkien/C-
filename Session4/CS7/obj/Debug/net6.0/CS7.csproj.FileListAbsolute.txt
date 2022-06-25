@@ -1,0 +1,15 @@
+C:\Users\KIEN  KT\source\repos\Session4\CS7\bin\Debug\net6.0\CS7.exe
+C:\Users\KIEN  KT\source\repos\Session4\CS7\bin\Debug\net6.0\CS7.deps.json
+C:\Users\KIEN  KT\source\repos\Session4\CS7\bin\Debug\net6.0\CS7.runtimeconfig.json
+C:\Users\KIEN  KT\source\repos\Session4\CS7\bin\Debug\net6.0\CS7.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS7\bin\Debug\net6.0\CS7.pdb
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.csproj.AssemblyReference.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.AssemblyInfoInputs.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.AssemblyInfo.cs
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.csproj.CoreCompileInputs.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\refint\CS7.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.pdb
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\CS7.genruntimeconfig.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS7\obj\Debug\net6.0\ref\CS7.dll

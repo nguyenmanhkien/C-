@@ -1,0 +1,15 @@
+C:\Users\KIEN  KT\source\repos\Session4\CS9\bin\Debug\net6.0\CS9.exe
+C:\Users\KIEN  KT\source\repos\Session4\CS9\bin\Debug\net6.0\CS9.deps.json
+C:\Users\KIEN  KT\source\repos\Session4\CS9\bin\Debug\net6.0\CS9.runtimeconfig.json
+C:\Users\KIEN  KT\source\repos\Session4\CS9\bin\Debug\net6.0\CS9.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS9\bin\Debug\net6.0\CS9.pdb
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.csproj.AssemblyReference.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.AssemblyInfoInputs.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.AssemblyInfo.cs
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.csproj.CoreCompileInputs.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\refint\CS9.dll
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.pdb
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\CS9.genruntimeconfig.cache
+C:\Users\KIEN  KT\source\repos\Session4\CS9\obj\Debug\net6.0\ref\CS9.dll
