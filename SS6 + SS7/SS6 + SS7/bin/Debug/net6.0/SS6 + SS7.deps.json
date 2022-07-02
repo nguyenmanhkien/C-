@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SS6 + SS7/1.0.0": {
+        "runtime": {
+          "SS6 + SS7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SS6 + SS7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

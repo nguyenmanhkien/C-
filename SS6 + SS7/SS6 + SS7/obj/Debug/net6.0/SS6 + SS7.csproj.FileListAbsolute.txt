@@ -1,0 +1,15 @@
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\bin\Debug\net6.0\SS6 + SS7.exe
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\bin\Debug\net6.0\SS6 + SS7.deps.json
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\bin\Debug\net6.0\SS6 + SS7.runtimeconfig.json
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\bin\Debug\net6.0\SS6 + SS7.dll
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\bin\Debug\net6.0\SS6 + SS7.pdb
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.csproj.AssemblyReference.cache
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.AssemblyInfoInputs.cache
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.AssemblyInfo.cs
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.csproj.CoreCompileInputs.cache
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.dll
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\refint\SS6 + SS7.dll
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.pdb
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\SS6 + SS7.genruntimeconfig.cache
+C:\Users\KIEN  KT\source\repos\SS6 + SS7\SS6 + SS7\obj\Debug\net6.0\ref\SS6 + SS7.dll
